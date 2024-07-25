@@ -64,3 +64,4 @@ C:\Users\CogPc-81\source\download\ASPNETMVCCRUD\ASPNETMVCCRUD\bin\Debug\net6.0\r
 C:\Users\CogPc-81\source\download\ASPNETMVCCRUD\ASPNETMVCCRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\CogPc-81\source\download\ASPNETMVCCRUD\ASPNETMVCCRUD\obj\Debug\net6.0\ASPNETMVCCRUD.csproj.AssemblyReference.cache
 C:\Users\CogPc-81\source\download\ASPNETMVCCRUD\ASPNETMVCCRUD\obj\Debug\net6.0\ASPNETMV.0AEDF866.Up2Date
+C:\Users\CogPc-81\source\download\ASPNETMVCCRUD\ASPNETMVCCRUD\obj\Debug\net6.0\ASPNETMVCCRUD.sourcelink.json
